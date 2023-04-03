@@ -1,0 +1,34 @@
+
+
+.heading{
+margin: 0;
+text-align: center;
+background-color: aqua;
+} 
+
+#film-title{
+    height: fit-content;
+    width: 300px;
+}
+
+.movie-details{
+    display: flex;
+
+}
+
+.movie-details > div{
+    margin: 10px;
+
+}
+
+#ticket{
+    height: fit-content;
+    width: 300px;
+    /* border: 1px solid red; */
+    /* padding: 10px; */
+}
+
+#MovieTitle{
+    background-color: bisque;
+}
+
